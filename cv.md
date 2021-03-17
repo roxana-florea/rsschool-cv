@@ -2,7 +2,8 @@
 
 ### Contact info:
 
-Email: florea.roxana5@yahoo.com 
+Email: florea.roxana5@yahoo.com \
+<a href="https://www.linkedin.com/in/roxana-florea-53155a83/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 ### Summary:
 
